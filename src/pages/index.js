@@ -133,7 +133,9 @@ class Home extends Component {
                         fontSize: 30,
                       },
                     }}>
-                    A JavaScript library for building user interfaces
+                    {/* A JavaScript library for building user interfaces */}O
+                    bibliotecă JavaScript pentru crearea interfețelor cu
+                    utilizatorul
                   </p>
                   <Flex
                     valign="center"
@@ -148,12 +150,14 @@ class Home extends Component {
                       <ButtonLink
                         to="/docs/getting-started.html"
                         type="primary">
-                        Get Started
+                        {/* Get Started */}
+                        Începe Aici
                       </ButtonLink>
                     </CtaItem>
                     <CtaItem>
                       <ButtonLink to="/tutorial/tutorial.html" type="secondary">
-                        Take the Tutorial
+                        {/* Take the Tutorial */}
+                        Tutorial
                       </ButtonLink>
                     </CtaItem>
                   </Flex>
@@ -285,12 +289,14 @@ class Home extends Component {
               <Flex valign="center">
                 <CtaItem>
                   <ButtonLink to="/docs/getting-started.html" type="primary">
-                    Get Started
+                    {/* Get Started */}
+                    Începe aici
                   </ButtonLink>
                 </CtaItem>
                 <CtaItem>
                   <ButtonLink to="/tutorial/tutorial.html" type="secondary">
-                    Take the Tutorial
+                    {/* Take the Tutorial */}
+                    Tutorial
                   </ButtonLink>
                 </CtaItem>
               </Flex>
